@@ -1,0 +1,6 @@
+selenium
+pandas
+nltk
+scikit-learn
+streamlit
+matplotlib
